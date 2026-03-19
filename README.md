@@ -11,7 +11,7 @@ XprismPlay, you can find it in the pinned repo!
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brodieshellbrack&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodieshellbrack&layout=compact&theme=tokyonight" alt="Top langs" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodieshellbrack&layout=compact&theme=tokyonight" alt="Top langs" />-->
 </p>
 
 <!--
