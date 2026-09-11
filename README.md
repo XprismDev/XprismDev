@@ -6,11 +6,11 @@ XprismPlay, you can find it in the pinned repo!
 ## My GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brodieshellbrack&show_icons=true&theme=tokyonight&count_private=true" alt="DevLJSP's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xprismdev&show_icons=true&theme=tokyonight&count_private=true" alt="Xprism's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brodieshellbrack&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xprismdev&theme=tokyonight" alt="GitHub streak" />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodieshellbrack&layout=compact&theme=tokyonight" alt="Top langs" />-->
 </p>
 
